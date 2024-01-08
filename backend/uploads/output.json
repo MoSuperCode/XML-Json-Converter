@@ -1,0 +1,46 @@
+{
+   "min_position": 8,
+   "has_more_items": false,
+   "items_html": "Car",
+   "new_latent_count": 9,
+   "data": {
+      "length": 24,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+   },
+   "numericalArray": [
+      23,
+      26,
+      25,
+      24,
+      24
+   ],
+   "StringArray": [
+      "Oxygen",
+      "Oxygen",
+      "Oxygen",
+      "Carbon"
+   ],
+   "multipleTypesArray": "Hello",
+   "objArray": [
+      {
+         "class": "middle",
+         "age": 9
+      },
+      {
+         "class": "middle",
+         "age": 3
+      },
+      {
+         "class": "upper",
+         "age": 3
+      },
+      {
+         "class": "lower",
+         "age": 5
+      },
+      {
+         "class": "middle",
+         "age": 5
+      }
+   ]
+}
